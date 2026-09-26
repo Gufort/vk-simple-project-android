@@ -1,0 +1,1 @@
+# vk-simple-project-android
